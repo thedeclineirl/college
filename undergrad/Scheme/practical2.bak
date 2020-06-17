@@ -1,0 +1,14 @@
+(define list_a '(6 7 5 4 8 3))
+
+(mergesort l 
+           let((split l)
+                (merge l)
+                )
+           )
+
+;(split a)
+;(merge b)
+
+
+(echo list_a)
+;(mergesort list_a)

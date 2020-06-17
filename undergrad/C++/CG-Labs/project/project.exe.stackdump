@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=01703FFB
+eax=00000000 ebx=0036D564 ecx=007FF9BF edx=0036BDC8 esi=0036D3FC edi=0036C5C0
+ebp=00000004 esp=0022CB30 program=c:\Users\Thomas\documents\cg-labs\project\project.exe, pid 3620, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+     13 [main] project 3620 _cygtls::handle_exceptions: Error while dumping state (probably corrupted stack)

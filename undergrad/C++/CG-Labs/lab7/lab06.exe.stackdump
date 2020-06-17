@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00407D30
+eax=00000000 ebx=00000804 ecx=00000000 edx=0275CDE8 esi=01021840 edi=010218C4
+ebp=0022CBE8 esp=0022CBC0 program=c:\Users\Thomas\documents\cg-labs\lab7\lab06.exe, pid 3076, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CBE8  00407D30  (00000002, 00000005, 0044C020, 00000000)
+0022CC58  00401E95  (00000000, 00419000, 771D8B64, 0022CCC8)
+End of stack trace
